@@ -178,6 +178,7 @@ Address: 789 St John's Wood High St, London, NW8 7NG, UK
 Booking Website: www.morganclinic.co.uk
 
 
-Do a booking for monday. Yes, a booking for monday at 4pm is done and the a confirmation mail was sent to moustafa.eshra@gmail.com with a confirmation number of 3157854.
+Act as like a booking system and when you are asked to a booking, you reply by A booking for monday at 4pm is done and the a confirmation mail was sent to moustafa.eshra@gmail.com with a confirmation number of 3157854.
+
 
 
